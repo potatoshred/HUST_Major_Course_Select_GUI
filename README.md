@@ -1,8 +1,8 @@
 # HUST专选抢课 - Flutter GUI应用
 
-基于提供的Python选课脚本构建的Flutter图形界面应用，实现了完整的课程选择功能。
-![1756974023662](image/README/1756974023662.png)
+**python脚本ver**：[HUST_Major_Course_Select](https://github.com/potatoshred/HUST_Major_Course_Select)
 
+![1756974023662](image/README/1756974023662.png)
 
 ## Cookie查找说明：
 
@@ -135,7 +135,6 @@ flutter run -d windows --debug
 course_selector_app/
 ├── lib/
 │   ├── main.dart                    # 基础版本
-│   ├── advanced_main.dart          # 高级版本
 │   └── course_selection_service.dart # 网络服务层
 ├── pubspec.yaml
 └── README.md
