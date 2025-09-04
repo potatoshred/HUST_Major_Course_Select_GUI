@@ -1,6 +1,7 @@
 # HUST专选抢课 - Flutter GUI应用
 
 基于提供的Python选课脚本构建的Flutter图形界面应用，实现了完整的课程选择功能。
+![1756974023662](image/README/1756974023662.png)
 
 ## 功能特性
 
