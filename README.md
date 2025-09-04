@@ -6,7 +6,7 @@
 
 ## Cookie查找说明：
 
-![img](image/readme/Cookie.jpg)
+![img](image/README/Cookie.jpg)
 
 ## 功能特性
 
